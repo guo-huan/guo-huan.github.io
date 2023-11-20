@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>python环境下使用虚拟环境(virtualenv)</title>
-    <url>/project/posts/5fe1bcbe/</url>
+    <url>/guo-huan.github.io/posts/5fe1bcbe/</url>
     <content><![CDATA[<h3 id="为什么要使用虚拟环境？"><a href="#为什么要使用虚拟环境？" class="headerlink" title="为什么要使用虚拟环境？"></a>为什么要使用虚拟环境？</h3><ol>
 <li><p>环境隔离</p>
 <p> 虚拟环境可以搭建独立的Python运行环境，使得单个项目的运行环境与其他项目互不影响。这样，每个项目可以使用适合自己的Python版本和第三方库，而不会与其他项目产生冲突。</p>
