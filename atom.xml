@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>静音流觞</title>
+  
+  
+  <link href="http://guo-huan.github.io/project/atom.xml" rel="self"/>
+  
+  <link href="http://guo-huan.github.io/project/"/>
+  <updated>2023-11-20T09:52:07.573Z</updated>
+  <id>http://guo-huan.github.io/project/</id>
+  
+  <author>
+    <name>致佟</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python环境下使用虚拟环境(virtualenv)</title>
+    <link href="http://guo-huan.github.io/project/posts/5fe1bcbe/"/>
+    <id>http://guo-huan.github.io/project/posts/5fe1bcbe/</id>
+    <published>2023-11-20T09:07:26.000Z</published>
+    <updated>2023-11-20T09:52:07.573Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;为什么要使用虚拟环境？&quot;&gt;&lt;a href=&quot;#为什么要使用虚拟环境？&quot; class=&quot;headerlink&quot; title=&quot;为什么要使用虚拟环境？&quot;&gt;&lt;/a&gt;为什么要使用虚拟环境？&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;环境隔离&lt;/p&gt;
+&lt;p&gt; 虚拟环境可以搭建独立的P</summary>
+      
+    
+    
+    
+    <category term="python" scheme="http://guo-huan.github.io/project/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://guo-huan.github.io/project/tags/python/"/>
+    
+    <category term="virtualenv" scheme="http://guo-huan.github.io/project/tags/virtualenv/"/>
+    
+  </entry>
+  
+</feed>
